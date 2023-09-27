@@ -5,7 +5,7 @@
         "id": "1",
         "photo": "",
         "title": "Casquinha de siri",
-        "price": " ",
+        "price": "",
         "info": "(unidade)",
         "description": ""
       },
@@ -13,7 +13,7 @@
         "id": "2",
         "photo": "",
         "title": "Bolinho de siri",
-        "price": "14,90",
+        "price": "",
         "info": "(torpedo unidade)",
         "description": ""
       },
@@ -21,7 +21,7 @@
         "id": "3",
         "photo": "",
         "title": "Lula na chapa",
-        "price": "R$ 62,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -29,7 +29,7 @@
         "id": "4",
         "photo": "",
         "title": "Ostra natural",
-        "price": "R$ 42,00",
+        "price": "",
         "info": "dúzia",
         "description": ""
       },
@@ -37,7 +37,7 @@
         "id": "5",
         "photo": "",
         "title": "Ostra ao bafo",
-        "price": "R$ 42,00",
+        "price": "",
         "info": "dúzia",
         "description": ""
       },
@@ -45,7 +45,7 @@
         "id": "6",
         "photo": "",
         "title": "Ostra gratinada",
-        "price": "R$ 42,00",
+        "price": "",
         "info": "1/2 dúzia",
         "description": ""
       },
@@ -53,7 +53,7 @@
         "id": "7",
         "photo": "",
         "title": "Camarão alho e óleo s/casca",
-        "price": "R$ 109,00",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -61,7 +61,7 @@
         "id": "8",
         "photo": "",
         "title": "Isca de Filé de Congrio Rosa",
-        "price": "R$ 82,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -69,7 +69,7 @@
         "id": "9",
         "photo": "",
         "title": "Lula à milanesa",
-        "price": "R$ 52,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -77,7 +77,7 @@
         "id": "10",
         "photo": "",
         "title": "Camarão recheado",
-        "price": "R$ 17,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -85,7 +85,7 @@
         "id": "11",
         "photo": "",
         "title": "Camarão à milanesa",
-        "price": "R$ 89,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -93,7 +93,7 @@
         "id": "12",
         "photo": "",
         "title": "Camarão acebolado",
-        "price": "R$ 109,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -101,7 +101,7 @@
         "id": "13",
         "photo": "",
         "title": "Camarão ao bafo",
-        "price": "R$ 79,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -109,7 +109,7 @@
         "id": "14",
         "photo": "",
         "title": "Camarão ao alho e óleo",
-        "price": "R$ 69,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -117,7 +117,7 @@
         "id": "15",
         "photo": "",
         "title": "Porção do Tilica",
-        "price": "R$ 119,50",
+        "price": "",
         "info": "",
         "description": "Lula, camarão, polvo, marisco na chapa"
       },
@@ -125,7 +125,7 @@
         "id": "16",
         "photo": "",
         "title": "Filé de sardinha",
-        "price": "R$ 34,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -133,7 +133,7 @@
         "id": "17",
         "photo": "",
         "title": "Camarão gratinado",
-        "price": "R$ 18,50",
+        "price": "",
         "info": "",
         "description": "Porção Individual"
       },
@@ -141,7 +141,7 @@
         "id": "18",
         "photo": "",
         "title": "Camarão Mata Fome",
-        "price": "R$ 149,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -149,7 +149,7 @@
         "id": "19",
         "photo": "",
         "title": "Camarão Grelhado",
-        "price": "R$ 109,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -157,7 +157,7 @@
         "id": "20",
         "photo": "",
         "title": "Siri Gratinado",
-        "price": "R$ 15,50",
+        "price": "",
         "info": "",
         "description": "Porção Individual"
       },
@@ -165,7 +165,7 @@
         "id": "21",
         "photo": "",
         "title": "Bolinho de Bacalhau",
-        "price": "R$ 32,50",
+        "price": "",
         "info": "",
         "description": "06 unidades"
       },
